@@ -1,0 +1,10 @@
+.el-button{
+    border-radius: 2px;
+    padding: 8px 22px;
+    &--large{
+        padding: 10px 32px; 
+    }
+    &--small, &--small.is-round{
+        padding: 5px 16px;
+    }
+}
